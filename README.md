@@ -1,4 +1,4 @@
-# Deluxe Connect
+![DeluxeConnectText](https://github.com/Fooh23/foohstudioslauncher/assets/89369870/196f8785-1f9c-4fd4-b00a-b97cbcc28464)
 
 ## Descripción
 
@@ -29,5 +29,5 @@ Si deseas contribuir a este proyecto, por favor:
 
 ## Licencia
 
-Este proyecto es open source bajo la licencia [INSERTAR LICENCIA AQUÍ].
+Este proyecto es open source bajo la licencia [GPL-3.0].
 
